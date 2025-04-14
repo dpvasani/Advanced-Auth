@@ -18,7 +18,7 @@ Advanced Auth (RABC) is a comprehensive authentication Project that provides a f
 - 🚪 **Logout Endpoint** – Manage user sessions effectively
 - 🔑 **Login Endpoint** – Authenticate users securely
   - **Account Lockout Feature** – If a user enters the wrong password more than three times, their account will be locked for **15 minutes**. They will see a message:  
-    **"Account locked. Try again after [time]."**
+    **"Account locked. Try again after 15 minutes."**
 - 🔄 **Forgot Password Endpoint** – Allow users to reset forgotten passwords
 - 🔁 **Reset Password Endpoint** – Secure password resetting process
 - ✔️ **Check Auth Endpoint** – Verify user authentication status
@@ -32,7 +32,7 @@ Advanced Auth (RABC) is a comprehensive authentication Project that provides a f
 - 🔑 **Implementing Login** – Add login functionality to the frontend
 - 🏠 **Dashboard Page** – Display user-specific data after login
 - 🔄 **Implementing Forgot Password** – Allow password reset requests
-- 🚀 **Detailed Deployment** – Steps to deploy both backend and frontend
+- 🚀 **Deployment Links** – deployed both backend and frontend
 
 ## Setup `.env` File
 
