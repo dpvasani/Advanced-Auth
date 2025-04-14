@@ -1,10 +1,10 @@
-# Advanced Auth(RABC) 🔒
+# Advanced Auth (RABC) 🔒
 
 
 
 ## About This Project
 
-Advanced Auth(RABC) is a comprehensive authentication Project that provides a full-stack setup for user authentication and authorization. It includes both backend and frontend modules, covering essential functionality such as email verification, password reset, and secure session management. This project is ideal for developers looking to implement robust authentication in their applications.
+Advanced Auth (RABC) is a comprehensive authentication Project that provides a full-stack setup for user authentication and authorization. It includes both backend and frontend modules, covering essential functionality such as email verification, password reset, and secure session management. This project is ideal for developers looking to implement robust authentication in their applications.
 
 ## Features
 
